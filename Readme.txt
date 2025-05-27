@@ -1,4 +1,5 @@
-Computational characterization of metacognitive ability in subjective decision-making (Plate et al., 2025)
+Computational characterization of metacognitive ability in subjective decision-making
+Corey R. Plate, Dhruv Govil, Charles Y Zheng, Zoe M. Boundy-Singer, Corey M. Ziemba, Silvia Lopez-Guzman
 
 Description:
 
